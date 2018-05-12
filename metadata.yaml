@@ -1,4 +1,8 @@
 _repo: Race-Improvement-or-Eugenics-a-Little-Book-on-a-Great-Subject_47976
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47976-h/images/cover.jpg
 creator:
   author:
     agent_name: Baker, La Reine Helen McKenzie
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '44553'
     url: http://www.gutenberg.org/2009/agents/44553
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47976#Race-Improvement-or-Eugenics-a-Little-Book-on-a-Great-Subject
 gutenberg_issued: '2015-01-15'
 gutenberg_type: Text
 identifiers:
