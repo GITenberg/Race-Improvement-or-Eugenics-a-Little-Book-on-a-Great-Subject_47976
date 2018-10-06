@@ -20,5 +20,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Race Improvement : or, Eugenics : a Little Book on a Great Subject'
 url: http://www.gutenberg.org/ebooks/47976
